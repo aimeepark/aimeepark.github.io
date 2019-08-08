@@ -98,7 +98,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #a2a2a2;
+		color: #3a3939;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 18pt;
 		font-weight: 400;
@@ -122,7 +122,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #787878;
+		color: #3a3939;
 		font-weight: 400;
 	}
 
@@ -131,11 +131,11 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 0 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #575656;
+		color: #3a3939;
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -148,32 +148,32 @@ input, select, textarea {
 
 	h1 {
 		font-size: 2em;
-		line-height: 1.5em;
+		line-height: 1em;
 	}
 
 	h2 {
 		font-size: 1.75em;
-		line-height: 1.5em;
+		line-height: 1.3em;
 	}
 
 	h3 {
 		font-size: 1.5em;
-		line-height: 1.5em;
+		line-height: 1.4em;
 	}
 
 	h4 {
 		font-size: 1.1em;
-		line-height: 1.5em;
+		line-height: 1.4em;
 	}
 
 	h5 {
 		font-size: 0.9em;
-		line-height: 1.5em;
+		line-height: 1.4em;
 	}
 
 	h6 {
 		font-size: 0.7em;
-		line-height: 1.5em;
+		line-height: 1.4em;
 	}
 
 	sub {
@@ -1767,7 +1767,7 @@ input, select, textarea {
 	header p {
 		color: #b2b2b2;
 		position: relative;
-		margin: 0 0 1.5em 0;
+		margin: 0 0 1em 0;
 	}
 
 	header h2 + p {
@@ -2554,7 +2554,7 @@ input, select, textarea {
 /* Work Item */
 
 	.work-item {
-		margin: 0 0 2em 0;
+		margin: 0 0 4em 0;
 	}
 
 		.work-item .image {
@@ -2600,7 +2600,7 @@ input, select, textarea {
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
-		padding: 8em 4em;
+		padding: 4em 4em;
 		position: fixed;
 		text-align: right;
 		top: 0;
@@ -2634,7 +2634,7 @@ input, select, textarea {
 		#header h1 {
 			color: rgba(255, 255, 255, 0.5);
 			font-size: 1.35em;
-			line-height: 1.75em;
+			line-height: 1.5em;
 			margin: 0;
 		}
 
@@ -2691,7 +2691,7 @@ input, select, textarea {
 		#main > section {
 			border-top: solid 2px #efefef;
 			margin: 4em 0 0 0;
-			padding: 4em 0 0 0;
+			padding: 2em 0 0 0;
 		}
 
 			#main > section:first-child {
