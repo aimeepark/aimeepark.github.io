@@ -1,5 +1,5 @@
 @import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
 /*
 	Strata by HTML5 UP
@@ -99,7 +99,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #3a3939;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: 'Montserrat', sans-serif;
 		font-size: 18pt;
 		font-weight: 400;
 		line-height: 1.75em;
@@ -123,7 +123,7 @@ input, select, textarea {
 
 	strong, b {
 		color: #3a3939;
-		font-weight: 400;
+		font-weight: 600;
 	}
 
 	em, i {
@@ -136,7 +136,6 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #3a3939;
-		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
 	}
@@ -147,13 +146,15 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 2em;
+		font-size: 3em;
 		line-height: 1em;
 	}
 
 	h2 {
+        font-weight: 600;
 		font-size: 1.75em;
 		line-height: 1.3em;
+        color: #49bf9d;
 	}
 
 	h3 {
@@ -162,6 +163,7 @@ input, select, textarea {
 	}
 
 	h4 {
+        font-weight: 600;
 		font-size: 1.1em;
 		line-height: 1.4em;
 	}
